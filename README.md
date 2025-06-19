@@ -1,5 +1,10 @@
 # 📅 Calendar Pro
 
+## 🌐 Live Demo
+[calendar-pro-virid.vercel.app](https://calendar-pro-virid.vercel.app)
+
+---
+
 A modern calendar web app built with **React**, **TypeScript**, **Vite**, and **TailwindCSS**, featuring:
 
 - Month navigation
@@ -28,6 +33,12 @@ A modern calendar web app built with **React**, **TypeScript**, **Vite**, and **
 - 💨 Tailwind CSS
 - 📅 date-fns
 - 🎯 ESLint + Type Checking
+
+---
+
+## 📷 Screenshot
+
+![Calendar UI](./public/screenshot.png)
 
 ---
 
